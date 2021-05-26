@@ -19,7 +19,7 @@
     detail: Bachelor of Engineering
     i18n: company_a
   desc:
-    detail: I obtained my Bachelor degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
+    detail: Obtained my Bachelor degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). Majoring in digital media technology.
     i18n: company_a_desc
   date:
     detail: 2017~2021
@@ -33,7 +33,7 @@
     detail: Master of Engineering
     i18n: company_a
   desc:
-    detail: Currently pursuing MEng degree advised by Prof Mao Kezhi at School of Electrical and Electronic Engineering, Nanyang Technological University (NTU).
+    detail: Currently pursuing MEng degree advised by Prof Mao Kezhi at School of Electrical and Electronic Engineering, Nanyang Technological University (NTU). Research area is NLP.
     i18n: company_a_desc
   date:
     detail: 2021~2023
