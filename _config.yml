@@ -12,15 +12,15 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Chen Siyuan  # Be used at blog posts' author.
-  first_name: Siyuan  # Be used at index page about me section.
-  last_name: Chen  # Be used at index page about me section.
+  first_name: Chen  # Be used at index page about me section.
+  last_name: Siyuan  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: SYChen123  # Leave blank if you don't have now
   linkedin_id: siyuan-chen-3861071b6 # Leave blank if you don't have now
   facebook_username: Alex Chen  # Leave blank if you don't have now
-  # twitter_username:  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
   email: siyuanchen23@outlook.com  # Leave blank if you don't have now
-  # cv:  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
