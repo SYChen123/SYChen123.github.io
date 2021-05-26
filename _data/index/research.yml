@@ -7,6 +7,12 @@
 #   img: /static/assets/img/landing/google.png
 #   desc: This is another project.
 
+- name: Bachelor thesis
+  i18n: thesis
+  url:
+  img: 
+  desc: Final year project. Research topic is knowledge graph completion. Proposed a novel embedding-based knowledge graph completion model called Bilinear-OWE that achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a KGC system with GUI. Jan. 2021–May 2021.
+
 - name: Remote internship at HKUST
   i18n: hkust
   url:
