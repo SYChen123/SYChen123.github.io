@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   last_name: Chen  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: SYChen123  # Leave blank if you don't have now
-  linkedin_id: Siyuan Chen # Leave blank if you don't have now
+  linkedin_id: siyuan-chen-3861071b6 # Leave blank if you don't have now
   facebook_username: Alex Chen  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: siyuanchen23@outlook.com  # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I'm Chen Siyuan, an incoming Master of Engineering (MEng) student at Nanyang Technological University (NTU). Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology through School of Computer Science and Engineering. <br> I'm interested in machine learning and deep learning, natural language processing, computer vision, etc. <br> I also love to watch movies and tv shows. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
