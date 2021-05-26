@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# - name:
+#     detail: Company A
+#     i18n: company_a
+#   desc:
+#     detail: I worked at Company A ...
+#     i18n: company_a_desc
+#   date:
+#     detail: Apr. 2016
+#     i18n: company_a_date
+#   job:
+#     detail: CTO
+#     i18n: company_a_job
+#   icon: fa-plus-square
+#   present: true
+
+- name:
+    detail: Bachelor of Engineering
+    i18n: company_a
+  desc:
+    detail: I obtained my Bachelor degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC).
+    i18n: company_a_desc
+  date:
+    detail: 2017~2021
+    i18n: company_a_date
+  job:
+    detail:
+    i18n: company_a_job
+  icon:
+
+- name:
+    detail: Master of Engineering
+    i18n: company_a
+  desc:
+    detail: Currently pursuing MEng degree advised by Prof Mao Kezhi at School of Electrical and Electronic Engineering, Nanyang Technological University (NTU).
+    i18n: company_a_desc
+  date:
+    detail: 2021~2023
+    i18n: company_a_date
+  job:
+    detail:
+    i18n: company_a_job
+  icon:

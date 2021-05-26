@@ -16,7 +16,7 @@
   i18n: nav.research
   name: Research
   tpl: research.html
-  css:
+  css: project
 
 - id: working experience
   i18n: nav.working
