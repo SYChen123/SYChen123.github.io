@@ -30,9 +30,9 @@ author:  # change following line to your infomation.
     - name: icon-apache
   desc: I'm Chen Siyuan, an incoming Master of Engineering (MEng) student at Nanyang Technological University (NTU). Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology through School of Computer Science and Engineering. I'm interested in machine learning and deep learning, natural language processing, Java programming, etc. I love sports such as basketball, pingpong, and billards. I also love to watch movies and tv shows. # Describe yourself.
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+# # comment
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: jalpc
 
 # analytics
 ## google analytics
