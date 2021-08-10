@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I'm Chen Siyuan, Master of Engineering (MEng) student at Nanyang Technological University (NTU). Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology through School of Computer Science and Engineering. I'm interested in machine learning and deep learning, natural language processing, etc. I love sports such as basketball, pingpong, and billards. # Describe yourself.
+  desc: I'm Chen Siyuan, Master of Engineering (MEng) student at Nanyang Technological University (NTU). Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology through School of Computer Science and Engineering. I'm interested in machine learning and deep learning, natural language processing, etc. # Describe yourself.
 
 # # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
