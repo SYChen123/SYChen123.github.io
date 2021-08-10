@@ -23,19 +23,19 @@
   i18n: rin
   url:
   img:
-  desc: Remote internship under the supervision of Prof. Chng Eng Siong. Implemented a broken-English generator.  June 2020–July 2020.
+  desc: Remote internship under the supervision of Prof. Chng Eng Siong. Implemented a broken-English sentences generator.  June 2020–July 2020.
 
 - name: Skin lesion classification project
   i18n: slc
   url:
   img:
-  desc: Applied Matching Network to a skin lesion dataset, supervised by Prof. Juan Chen. My resulting paper is under review by the publication Research and Exploration in Laboratory. Oct. 2019–Jan. 2020.
+  desc: Applied Matching Network for skin lesion classification, supervised by Prof. Juan Chen. Oct. 2019–Jan. 2020.
 
-- name: Object tracking project
-  i18n: ot
-  url:
-  img:
-  desc: Implemented an original video object tracking algorithm based on YOLOv3 and graphical user interface, supervised by Prof. Juan Chen and Prof. Quan Wen. June 2019–Sept. 2019.
+# - name: Object tracking project
+#   i18n: ot
+#   url:
+#   img:
+#   desc: Implemented an original video object tracking algorithm based on YOLOv3 and graphical user interface, supervised by Prof. Juan Chen and Prof. Quan Wen. June 2019–Sept. 2019.
 
 - name: Aerial vechicle detection project
   i18n: avd
