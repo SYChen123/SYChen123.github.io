@@ -23,13 +23,13 @@
   i18n: rin
   url:
   img:
-  desc: Remote internship under the supervision of Prof. Chng Eng Siong. Implemented a broken-English sentences generator.  June 2020–July 2020.
+  desc: Remote internship supervised by Prof. Chng Eng Siong. Implemented a broken English sentences generator, which generates English sentences with wrong English grammar but understandable in Mandarin grammar. June 2020–July 2020.
 
 - name: Skin lesion classification project
   i18n: slc
   url:
   img:
-  desc: Applied Matching Network for skin lesion classification, supervised by Prof. Juan Chen. Oct. 2019–Jan. 2020.
+  desc: Applied Matching Networks to classify skin lesion images. Dataset is ISIC 2018 Task 3. After using data augmentation techniques such as translation and rotation, the accuracy reached 76%. Supervised by Prof Chen Juan. Oct. 2019–Jan. 2020.
 
 # - name: Object tracking project
 #   i18n: ot
