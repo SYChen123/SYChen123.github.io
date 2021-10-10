@@ -68,3 +68,4 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+production_url: https://sychen123.github.io/
