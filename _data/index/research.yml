@@ -7,11 +7,17 @@
 #   img: /static/assets/img/landing/google.png
 #   desc: This is another project.
 
+- name: Emotion cause extraction
+  i18n: ECPE
+  url:
+  img: 
+  desc: Current research project. Proposed a novel GNN-based model which utilizes external knowledge and performs emotion cause extraction from word-level, clause-level and document-level. Our model achieved the best results on benchmark datasets. Spet. 2021–now.
+
 - name: Bachelor thesis
   i18n: thesis
   url:
   img: 
-  desc: Final year project. Research topic is knowledge graph completion. Proposed a novel embedding-based knowledge graph completion model called Bilinear-OWE that achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a KGC system with GUI. Jan. 2021–May 2021.
+  desc: Final year project. Research topic is knowledge graph completion. Proposed a novel embedding-based knowledge graph completion model that is able to deal with unseen entities and achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a with GUI system. Jan. 2021–May 2021.
 
 - name: Remote internship at HKUST
   i18n: hkust
