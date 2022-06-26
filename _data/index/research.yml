@@ -17,7 +17,7 @@
   i18n: thesis
   url:
   img: 
-  desc: Final year project. Research topic is knowledge graph completion. Proposed a novel embedding-based knowledge graph completion model that is able to deal with unseen entities and achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a with GUI system. Jan. 2021–May 2021.
+  desc: Final year project. Research topic is knowledge graph completion. Proposed a novel embedding-based knowledge graph completion model that is able to deal with unseen entities and achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a with GUI system. Jan. 2021–June 2021.
 
 - name: Remote internship at HKUST
   i18n: hkust
