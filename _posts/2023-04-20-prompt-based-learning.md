@@ -12,20 +12,10 @@ Take token as basic unit and prompt engineering is performed at token level.
 
 - **Prompt mining**. Scrape a large text corpus, e.g. Wikipedia, that contains input x and output y (label). And find either middle words or dependency paths between the input and output. Frequent middle words or dependency path can serve as template.
 - **Prompt paraphrasing**. Paraphrase can be done using back-translation, synonym replacement, learn a neural rewriter. 
-- **Gradient-based search**. AutoPrompt method is an example, which formulates classification problems as language modelling, and it proposes method for automatic prompt template engineering and answer engineering. More specifically, for template engineering, it takes the first order approximation (Taylor expansion) of the **change of the log-likelihood** that would be produced by swapping the *j*th trigger token $
-x^{(j)}_{trig}
-$ with another token $
-w_{in}\in V
-$.
-<!-- ![](autoprompt.png) -->
+- **Gradient-based search**. AutoPrompt method is an example, which formulates classification problems as language modelling, and it proposes method for automatic prompt template engineering and answer engineering. More specifically, for template engineering, it takes the first order approximation (Taylor expansion) of the **change of the log-likelihood** that would be produced by swapping the *j*th trigger token $ x^{(j)}_{trig} $ with another token $ w_{in}\in V $.
 
-$$
-V_{cand} = topk(w^T_{in}\nabla logp(y|x_{prompt}))
-$$
+$$V_{cand} = topk(w^T_{in}\nabla logp(y|x_{prompt}))$$
 
-<!-- $$
-p(y|x_{prompt}) = \sum^{}_{w \in V_y}p([MASK]=w|x_{prompt})
-$$ -->
 - **Prompt generation**. Adopt T5 model to generate prompt in a seq2seq manner
 - **Prompt scoring**. Use unidirectional LM to score the manually filled prompts and select the one with highest probability.
 
