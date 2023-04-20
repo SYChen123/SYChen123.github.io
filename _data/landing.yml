@@ -20,7 +20,7 @@
 
 - id: working experience
   i18n: nav.working
-  name: Working Experience
+  name: Working experience
   tpl: working.html
   css: timeline
 
