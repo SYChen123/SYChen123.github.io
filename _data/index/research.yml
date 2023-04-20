@@ -7,18 +7,11 @@
 #   img: /static/assets/img/landing/google.png
 #   desc: This is another project.
 
-# name: Event Causality Identification
-# i18n: ECI
-# url:
-# img: 
-# desc: Proposed to incorporate explicit and implicit causal knowledge into deep neural networks. Our model achieved the best results on 3 benchmakrk datasets. Aug 2022–Jan. 2023.
-
-
 - name: Emotion Cause Pair Extraction
   i18n: ECPE
   url:
   img: 
-  desc: Proposed a novel GNN-based model which utilizes external knowledge and multi-granular information. Our model achieved the best results on benchmark datasets. Spet. 2021–Aug 2022.
+  desc: Proposed a novel GAT-based model which utilizes external knowledge and multi-granular information. Our model achieved the best results on benchmark datasets. Spet. 2021–Aug 2022.
 
 - name: Open-domain Knowledge Graph Completion
   i18n: thesis
