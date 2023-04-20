@@ -4,13 +4,13 @@
     detail: N
     i18n: company_a
   desc:
-    detail: Incoming Algorithm Engineering at Huawei company.
+    detail: Incoming Algorithm Engineer at Huawei company.
     i18n: company_a_desc
   date:
-    detail: None
+    detail: 2023
     i18n: company_a_date
   job:
-    detail: None
+    detail: Algorithm Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
