@@ -7,29 +7,35 @@
 #   img: /static/assets/img/landing/google.png
 #   desc: This is another project.
 
+name: Event Causality Identification
+  i18n: ECI
+  url:
+  img: 
+  desc: Proposed to integrate both explicit and implicit knowledge with graph-based neural networks for event causality identification. Our model achieved the best results on 3 benchmark datasets. Aug 2022–Jan. 2023.
+
 - name: Emotion Cause Pair Extraction
   i18n: ECPE
   url:
   img: 
-  desc: Proposed a novel GAT-based model which utilizes external knowledge and multi-granular information. Our model achieved the best results on benchmark datasets. Spet. 2021–Aug 2022.
+  desc: Proposed a novel GAT-based model which utilizes external knowledge and multi-granular information. Our model achieved the best results on the benchmark datasets. Spet. 2021–Aug 2022.
 
 - name: Open-domain Knowledge Graph Completion
   i18n: thesis
   url:
   img: 
-  desc: Undergraduate final year project. Proposed a novel embedding-based knowledge graph completion model that is able to deal with unseen entities and achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a GUI system using PyQt. Jan. 2021–June 2021.
+  desc: Proposed a novel embedding-based knowledge graph completion model that is able to deal with unseen entities and achieved better-than-baseline performance on DBPedia50k and FB20k datasets, and implemented a GUI system using PyQt. Jan. 2021–June 2021.
 
-- name: Remote internship at HKUST
-  i18n: hkust
-  url:
-  img: 
-  desc: Remote internship in human needs analysis group under the supervision of Prof. Xiaojuan Ma. Conducted data crawling and tweets labelling of Twitter and Weibo users. June 2020–Sept. 2020.
+# - name: Remote internship at HKUST
+#   i18n: hkust
+#   url:
+#   img: 
+#   desc: Remote internship in human needs analysis group under the supervision of Prof. Xiaojuan Ma. Conducted data crawling and tweets labelling of Twitter and Weibo users. June 2020–Sept. 2020.
 
-- name: Remote internship at NTU
-  i18n: rin
-  url:
-  img:
-  desc: Remote internship supervised by Prof. Chng Eng Siong. Implemented a broken English sentences generator, which generates English sentences with wrong English grammar but understandable in Mandarin grammar. June 2020–July 2020.
+# - name: Remote internship at NTU
+#   i18n: rin
+#   url:
+#   img:
+#   desc: Remote internship supervised by Prof. Chng Eng Siong. Implemented a broken English sentences generator, which generates English sentences with wrong English grammar but understandable in Mandarin grammar. June 2020–July 2020.
 
 - name: Skin lesion classification project
   i18n: slc
@@ -43,9 +49,9 @@
 #   img:
 #   desc: Implemented an original video object tracking algorithm based on YOLOv3 and graphical user interface, supervised by Prof. Juan Chen and Prof. Quan Wen. June 2019–Sept. 2019.
 
-- name: Aerial vechicle detection project
-  i18n: avd
-  url:
-  img:
-  desc: Supervised by Prof. Juan Chen. My role was to apply the source code of the paper "Flying Objects Detection from a Single Moving Camera" and report the results. May 2018–Nov. 2018.
+# - name: Aerial vechicle detection project
+#   i18n: avd
+#   url:
+#   img:
+#   desc: Supervised by Prof. Juan Chen. My role was to apply the source code of the paper "Flying Objects Detection from a Single Moving Camera" and report the results. May 2018–Nov. 2018.
 
