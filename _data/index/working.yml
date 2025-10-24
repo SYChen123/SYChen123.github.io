@@ -4,10 +4,10 @@
     detail: Huawei
     i18n: company_a
   desc:
-    detail: Incoming Algorithm Engineer at Huawei company.
+    detail: Algorithm Engineer at Huawei company. Field of research is AI Infra, especially in LLM Inference. Hands on experience on LLM serving systems/frameworks such as SGLang and MindIE (closed-source LLM serving framework developed by Huawei Ascend). Familiar with core techniques in LLM serving systems, e.g. PD disaggregation, BatchScheduler, distributed kvcache. 
     i18n: company_a_desc
   date:
-    detail: Nov 2023
+    detail: Jan 2024 - Oct 2025
     i18n: company_a_date
   job:
     detail: Algorithm Engineer
@@ -15,16 +15,16 @@
   icon: fa-plus-square
   present: true
 
-# - name:
-#     detail: Company B
-#     i18n: company_b
-#   desc:
-#     detail: I worked at Company B ...
-#     i18n: company_b_desc
-#   date:
-#     detail: Jun. 2015
-#     i18n: company_b_date
-#   job:
-#     detail: Full Stack Developer
-#     i18n: company_b_job
-#   icon: fa-plus-square
+- name:
+    detail: Ant International
+    i18n: company_b
+  desc:
+    detail: Incoming Senior Algorithm Engineer at Ant International, focusing on LLM inference.
+    i18n: company_b_desc
+  date:
+    detail: Oct 2025
+    i18n: company_b_date
+  job:
+    detail: Senior Algorithm Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
