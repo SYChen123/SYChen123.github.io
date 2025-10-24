@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I'm Chen Siyuan (陈思远), a Master of Engineering (MEng) student at Nanyang Technological University (NTU). Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology through School of Computer Science and Engineering. I'm interested in machine learning, deep learning, natural language processing, etc. # Describe yourself.
+  desc: I'm Chen Siyuan (陈思远). Currently work in Hangzhou as an Algorithm Engineer devoting into LLM Inference. I obtained my Master degree (by research) at Nanyang Technological University, Singapore (NTU), supervised by Prof Mao Kezhi. My research field is knowledge-augmented natural language processing. Before that I got my Bachelor degree from University of Electronic Science and Technology of China (UESTC), majoring in Digital Media Technology at School of Computer Science and Engineering. # Describe yourself.
 
 # # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
